@@ -1,0 +1,20 @@
+{
+  "name": "sso-npm",
+  "version": "1.0.3",
+  "description": "��#\u0000 \u0000S\u0000S\u0000O\u0000-\u0000N\u0000P\u0000M\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkenesaw/SSO-NPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidkenesaw/SSO-NPM/issues"
+  },
+  "homepage": "https://github.com/davidkenesaw/SSO-NPM#readme"
+}
